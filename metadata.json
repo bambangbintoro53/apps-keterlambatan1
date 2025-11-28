@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Aplikasi Keterlambatan Siswa",
+  "description": "Aplikasi web untuk mencatat dan memantau data keterlambatan siswa secara harian dan bulanan. Data disimpan secara lokal di browser pengguna.",
+  "requestFramePermissions": []
+}
